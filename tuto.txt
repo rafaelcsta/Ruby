@@ -1,0 +1,14 @@
+#apt install ruby (ou ruby-full nesse caso baixa headers etc.. proceda com cuidado)
+#Nao precisa baixar pois ja temos!
+ruby -v (--version)
+versao atual 2.7.1 (2020)
+gem (pacotes do ruby)
+
+interpretador ruby
+#irb
+puts "Hello World!"
+se voce ver nil => Significa que o comando foi executado com sucesso
+
+exit (sai)
+
+#https://www.youtube.com/results?search_query=Boson+Treinamentos+Ruby
